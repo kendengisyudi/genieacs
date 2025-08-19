@@ -3,7 +3,6 @@
 ### Memulai Install Genieacs
 **pastikan sudah berada di root**
 ```
-sudo su
 apt install git curl -y
 git clone https://github.com/kendengisyudi/genieacs.git
 cd genieacs
